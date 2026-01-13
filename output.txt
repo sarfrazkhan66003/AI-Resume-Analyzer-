@@ -1,0 +1,7 @@
+--- Testing Database ---
+MySQL Connection: SUCCESS
+
+--- Testing ResumeParser Class ---
+
+Instantiating ResumeParser...
+ResumeParser instantiated SUCCESS.

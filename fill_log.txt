@@ -1,0 +1,5 @@
+[+] Auto-filled config with all values
+[+] Saved config
+config_filled.cfg
+You can now add your data and train your pipeline:
+python -m spacy train config_filled.cfg --paths.train ./train.spacy --paths.dev ./dev.spacy

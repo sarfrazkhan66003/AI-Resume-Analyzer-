@@ -1,0 +1,5 @@
+3 channel Terms of Service accepted
+Retrieving notices: - \ | / - \ | / - \ | / - \ done
+
+EnvironmentLocationNotFound: Not a conda environment: C:\Users\DELL\OneDrive\Desktop\Sarfraz\PW Data Science\Project\AI-Resume-Analyzer-main\ c:\Users\DELL\OneDrive\Desktop\Sarfraz\PW Data Science\Project\AI-Resume-Analyzer-main\venv
+
